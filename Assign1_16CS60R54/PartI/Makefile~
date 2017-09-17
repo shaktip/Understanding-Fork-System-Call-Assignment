@@ -1,0 +1,4 @@
+Assignment1: Assign1_16CS60R54.c
+	gcc Assign1_16CS60R54.c -o Assignment1
+run: Assignment1
+	./Assignment1
